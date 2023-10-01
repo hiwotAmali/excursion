@@ -1,8 +1,44 @@
 #main{
-    background-image: url('./excursion.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: auto;
-    height: 100rem;
+   background-color: black;
 }
 
+.discover-txt, .guide{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.Link{
+    margin-left: 35%;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+     
+}
+.video{
+    margin-left: 30%;
+}
+img{
+    margin-left: 10%;
+}
+.guide{
+ font-size: 32;
+}
+.excursion, .soon, .ex{
+    font-family: Verdana,"Geneva", Tahoma, sans-serif;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
+.soon{
+    color: white;
+}
+.mobile-icon{
+    margin-left: 42%;
+}
+.ex{
+    text-align: right;
+}
